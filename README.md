@@ -13,7 +13,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+npm i vue-yandex-maps
 ```
 
 ### Compile and Hot-Reload for Development
